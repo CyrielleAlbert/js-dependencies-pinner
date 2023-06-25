@@ -1,0 +1,8 @@
+{
+    "name": "@cyriellealbert/js-dependencies-pinner",
+    "version": "1.0.0",
+    "homepage": "https://github.com/CyrielleAlbert/js-dependencies-pinner",
+    "license": "(MIT OR Apache-2.0)",
+    "dependencies": {},
+    "bin": "./bin.js"
+}
